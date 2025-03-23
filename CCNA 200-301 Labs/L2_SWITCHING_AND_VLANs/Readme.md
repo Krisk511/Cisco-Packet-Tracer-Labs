@@ -1,5 +1,8 @@
 # Level 2 Switching and VLANS
 
+![image](https://github.com/user-attachments/assets/59aec3fa-9dc4-446c-b2b0-32f476fb4e9e)
+
+
 ## Lab Objective: Laptop opens Web page on Server at 10.67.83.35
 - Use VLAN 10 for the Laptop and Server
 - VLAN 10 is supporting the IPv4 network 10.67.83.32 /27
