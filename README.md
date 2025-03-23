@@ -1,12 +1,15 @@
-# Practice Labs for Networking (like CCNA, CSET certifications) 
+# Practice Labs for Networking
 
 ### Labs to practice Networking (design, troubleshooting, etc.) using Cisco Packet Tracer
-### Helpful if you want to practice for a CCNA or CSET certifications
 
-These are various Packet Tracer labs that vary in degree of difficulty. 
+These labs can be helpful if you want to practice for your certain Networking certificates
+like CNET, CCNA, etc.
 
-#### Here are a list of the different labs you'll find here
+## Tools you'll need
+Download Packet Tracer here (you need to create a free account):
+https://www.netacad.com/cisco-packet-tracer
 
-- Level 2 Switching and VLANs
-- OSPF Troubleshooting
+## List of Labs
+- HARD: Level 2 Switching and VLANs
+- HARD: OSPF Troubleshooting
 - and more
