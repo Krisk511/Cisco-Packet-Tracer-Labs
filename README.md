@@ -12,4 +12,5 @@ https://www.netacad.com/cisco-packet-tracer
 ## List of Labs
 - HARD: [Level 2 Switching and VLANs](https://github.com/Krisk511/Cisco-Packet-Tracer-Labs/tree/main/CCNA%20200-301%20Labs/L2_SWITCHING_AND_VLANs)
 - HARD: [OSPF Troubleshooting](https://github.com/Krisk511/Cisco-Packet-Tracer-Labs/blob/main/CCNA%20200-301%20Labs/OSPF%20Troubleshooting)
+- HARD: [Add IP Range to Firewall Block Rule](https://github.com/Krisk511/Automation-Add-IP-range-to-Firewall-Block-Rule).
 - and more
