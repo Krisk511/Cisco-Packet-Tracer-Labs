@@ -64,12 +64,25 @@ DNS Servers . . . . . . . . . . . : 8.8.8.8
 NetBIOS over Tcpip. . . . . . . . : Enabled 
 ~~~
 
-The DNS server for the computer is hsd1.ma.comcast.net
+-The DNS server for the computer is hsd1.ma.comcast.net
+-The MAC Address of the network adapter is 00-00-12-34-58-C1
+-The DHCP is enabled and the IP address to the DHCP server is 192.168.1.1
+-The date when the lease was obtained is July 24, 2016 9:33:49 AM
+-The date when the lease expires is July 25, 2016 10:33:17 AM
 
-The MAC Address of the network adapter is 00-00-12-34-58-C1
+### Part 2: The the Network Interface TCP/IP Stack
 
-The DHCP is enabled and the IP address to the DHCP server is 192.168.1.1
+#### Step 1: Test TCP/IP stack using the lookback address
 
-The date when the lease was obtained is July 24, 2016 9:33:49 AM
+To verify that the TCP/IP protocol is functioning, pinging your loopback address. Enter the **ping 127.0.0.1** at the prompt
 
-The date when the lease expires is July 25, 2016 10:33:17 AM
+```
+C:\Users\Student> ping 127.0.0.1
+```
+
+#### Step 2: Test TCP/IP stack using the configured IP address.
+You can also ping your IP address. In this example, enter the **ping 192.168.1.11** command at the prompt.
+
+Record one of the replies from your ping command.
+
+<img width="511" height="222" alt="image" src="https://github.com/user-attachments/assets/9c467d48-5cc0-4f7a-87bd-256c4367ee63" />
