@@ -1,2 +1,28 @@
 # Here are various labs from the Cisco Networking Academy
-[2.2.7 Lab - Determine IP Address Configuration of a Computer](https://github.com/Krisk511/Cisco-Packet-Tracer-Labs/tree/01d13e96eca8ff3bd751579c78ea836ac1f9889b/Cisco%20Labs/2.2.7%20Lab%20-%20Determine%20the%20IP%20Address%20Configuration%20of%20a%20Computer)
+- 1.5.4 Lab - My Local Network
+- [2.2.7 Lab - Determine IP Address Configuration of a Computer](https://github.com/Krisk511/Cisco-Packet-Tracer-Labs/tree/01d13e96eca8ff3bd751579c78ea836ac1f9889b/Cisco%20Labs/2.2.7%20Lab%20-%20Determine%20the%20IP%20Address%20Configuration%20of%20a%20Computer)
+- 4.5.7 Lab - Build a Simple Network
+- 4.5.8 Lab - Trace a Route
+- 5.1.4 Lab - My Protocol Rules
+- 5.4.5 Lab - Determine the MAC Address of a Host
+- 7.3.3 Lab - Observe Data Flow in a LAN
+- 8.1.2 Lab - Connect to a Web Server
+- 9.2.5 Lab - Configure DHCP on a Wireless Router
+- 10.2.3 Lab - Examine NAT on a Wireless Router
+- 10.4.7 Lab - Identify IPv6 Addresses
+- 12.2.4 Lab - Observe DNS Name Resolution
+- 12.3.3 Lab - Observe Web Request
+- 12.4.4 Lab - Use FTP Services
+- 12.5.4 Lab - Use Telnet and SSH
+- 14.2.13 Lab - Install Linux in a Virtual Machine and Explore the GUI
+- 16.2.4 Lab - Configure Basic Wireless Security
+- 17.5.1 Lab - Compare In-Band and Out-of-Band Management
+- 18.2.6 Lab - Navigate the IOS
+- 18.3.3 Lab - Use Cisco IOS Show Commands
+- 19.1.4 Lab - Implement Basic Connectivity
+- 19.3.6 Lab - Configure SSH
+- 19.4.4 Lab - Build a Switch and Router Network
+- 20.3.3 Lab - Use the ipconfig Command
+- 20.3.6 Lab - Use the ping Command
+- 20.4.3 Lab - Troubleshoot a Wireless Connection
+- 20.7.1 Lab - Skills Integration Challenge
